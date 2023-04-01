@@ -1,0 +1,9 @@
+main.c:63:6:LightSensor_AdcInit	1
+main.c:117:6:LedControl_TimerOCInit	1
+main.c:204:10:LightSensor_AdcPollingRead	2
+main.c:226:6:LedControl_TimerOCSetPwm	1
+main.c:246:6:LED_StepBrightness	4
+main.c:280:6:ABL_StepBrightness	1
+main.c:295:6:ABL_Process	4
+main.c:329:13:AppInitCommon	1
+main.c:339:5:main	1
